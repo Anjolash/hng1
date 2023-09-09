@@ -1,0 +1,29 @@
+.icons{
+    display: flex;
+}
+
+.client--img--wrapper{
+    margin-bottom: 24px;
+    
+}
+.client--img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.profile__links{
+    margin-top: 16px;
+    font-size: 14px;
+    background-color: #a10aa1;
+    color: ghostwhite;
+    padding: 6px;
+    width: 32px;
+    height: 32px;
+    margin-right: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: 2px
+}
